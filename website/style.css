@@ -1,0 +1,15 @@
+a {
+    text-decoration: none ;
+  }
+  
+/* for page 3 */
+
+input{
+    width: 50px !important;
+
+}
+
+button{
+    background-color: blue;
+    color: white;
+}
